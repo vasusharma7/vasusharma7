@@ -10,3 +10,4 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vasusharma7.vasusharma7)
 ![Twitter](https://shields.io/twitter/follow/vasu_sharma_7?label=Follow)
+![GitHub](https://shields.io/github/followers/:user?label=Follow)
