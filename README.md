@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently into learning new langauges and frameworks.
+- 🔭 I’m currently exploring operating system concepts and developing applications around computer networking.
 - 🌱 I'm looking for some cool project ideas.
-- 💬 Ask me about Web Development (MERN/LAMP), python progamming, machine learning, web scrapping and automating stuff.
+- 💬 Ask me about Web Development (MERN/LAMP); Android Development; C,Python progamming; Machine Learning; Web scrapping; programming/tech stuff in general.
 - 📫 Reach me at vasusharma2017@outlook.com.
 - ⚡ Fun fact: I go for coffee only on days ending with 'y'.
 
