@@ -10,6 +10,6 @@
 <!-- &include_all_commits=true -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vasusharma7.vasusharma7)
-![Twitter](https://shields.io/twitter/follow/sharma_vasu_7?label=Follow)
+![Twitter](https://shields.io/twitter/follow/vasusharma_7?label=Follow)
 ![GitHub](https://shields.io/github/followers/vasusharma7?label=Follow)
 
