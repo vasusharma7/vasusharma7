@@ -1,9 +1,11 @@
-### Hi there 👋
-- 🔭 I’m currently exploring operating system concepts and developing applications around computer networking.
-- 🌱 I'm looking for some cool project ideas.
-- 💬 Ask me about Web Development (MERN/LAMP); Android Development; C,Python progamming; Machine Learning; Web scrapping; programming/tech stuff in general.
-- 📫 Reach me at vasusharma2017@outlook.com.
-- ⚡ Fun fact: I go for coffee only on days ending with 'y'.
+Curious engineer !
+
+I love Computer Science in general and specifically interested in Computer Networks, Operating Systems. 
+
+Tech Blogs: https://vasusharma7.medium.com 
+GitHub: https://github.com/vasusharma7
+
+Always looking for something new and complex to work on.
 
 
 ![Vasu Sharma's github stats](https://github-readme-stats.vercel.app/api?username=vasusharma7&theme=dark&count_private=true)
