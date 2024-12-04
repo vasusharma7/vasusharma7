@@ -3,7 +3,6 @@ Curious engineer !
 I love Computer Science in general and specifically interested in Computer Networks, Operating Systems. 
 
 Tech Blogs: https://vasusharma7.medium.com 
-GitHub: https://github.com/vasusharma7
 
 Always looking for something new and complex to work on.
 
